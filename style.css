@@ -1,0 +1,67 @@
+
+body{
+    
+    text-align:center;
+    width: 40%;
+    margin-left: 25%;
+    background-color: #eee;
+    
+}
+.first{
+    background-color: white;
+    box-shadow: 5px;    
+        }
+.line{
+    border-top:3px solid black;
+    width: 95%;    
+        }
+.line1{
+    border-top:1px solid black;
+    width: 95%;    
+        }
+.pagebreak{
+    page-break-before: always;
+    page-break-after: always;
+}
+.head{
+    font-weight: bold;
+    padding: 20px;
+    text-align: center;
+    font-size: 20px;
+    
+   
+}
+
+div{
+    padding: 20px;
+    text-align:justify;
+ 
+}
+    
+.a{
+    font-size:large;
+        font-weight:900;
+}
+.b{
+    font-size:large;
+        font-weight:1000;
+    text-align:center;
+    
+}
+.c{
+    font-size:large;
+        font-weight:700;
+    text-align:left;
+   
+}
+
+
+
+
+
+
+
+
+
+
+
